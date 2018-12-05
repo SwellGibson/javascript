@@ -1,6 +1,14 @@
-//SIMPLE 'TODO' APPLICATION
-//A simple JavaScript application
-//Adam Hall
+/*
+SIMPLE 'TODO' APPLICATION
+A simple JavaScript application
+Adam Hall
+
+This application is a simple 'TODO' list that allows the user
+to store, display, change and delete a list of tasks.
+
+Used as an exercise for coding practices and the development process.  
+
+*/
 
 ///////////////
 
